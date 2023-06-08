@@ -17,6 +17,7 @@
 - [AlexEG](https://github.com/AlexEG)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [xyu](http://github.com/ximeng-yu)
 - [babujal]
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
